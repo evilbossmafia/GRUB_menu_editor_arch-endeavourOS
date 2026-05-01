@@ -1,0 +1,1 @@
+# GRUB_menu_editor_arch-endeavourOS
