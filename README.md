@@ -9,9 +9,9 @@ Hello Penguins, welcome to this friendly GRUB menu editor. This is created to ch
 
 3. Now, to use the background image function, you need to paste your images in grub_bg folder alongside your main.sh file. For images .jpg , .jpeg, or .png is allowed. Best resolution should be 1920x1080 or 1920x1200 as per your Desktop.
 
-4.Set timeout function is very useful. You can change your automatic time to any desired number you give. Note that its unit is second for number given.
+4. Set timeout function is very useful. You can change your automatic time to any desired number you give. Note that its unit is second for number given.
 
-5.set default will change your first priority of OS to your desired operating system.
+5. set default will change your first priority of OS to your desired operating system.
 
 #NOTE:-After every function, the update function is automatically executed.
 
